@@ -52,9 +52,8 @@ Goodbye!
 
 ## File Structure
 ```
-📁 pico-shell
  ├── 📄 picoshell.c  # Main source code
- ├── 📄 README.md    # Documentation
+
 ```
 
 ## Future Improvements
